@@ -1,2 +1,2 @@
 # Calculator
-vanilla-javascript-calculator
+pure vanilla JavaScript calculator using modern ES6 syntax and classes
